@@ -1,0 +1,10 @@
+[bass1][lead1]
+[bass2][lead2]
+[bassreset][leadreset]
+[bassmute][leadmute]
+
+[clock][reset][][]
+[][][][]
+--------
+[bass trigger][bass pitch][bass random1][bassrandom2]
+[lead trigger][lead pitch][lead random][]
